@@ -139,19 +139,19 @@ an automated business action based on their behavioral profile.
 ## 📊 Dashboard Preview
 
 ### Page 1 — Executive Summary
-![Executive Summary]
+![Executive Summary](outputs/ExecutiveSummary.png)
 
 ### Page 2 — RFM Segmentation
-![RFM Segmentation]
+![RFM Segmentation](outputs/RFM_Segmentation.png)
 
 ### Page 3 — Cohort Retention
-![Cohort Retention]
+![Cohort Retention](outputs/Cohort_Retention.png)
 
 ### Page 4 — Churn Drivers
-![Churn Drivers]
+![Churn Drivers](outputs/Churn_Drivers.png)
 
 ### Page 5 — Decision Engine
-![Decision Engine]
+![Decision Engine](outputs/Decision_Engine.png)
 
 ---
 
